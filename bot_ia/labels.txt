@@ -1,0 +1,3 @@
+0 balón de baloncesto
+1 balon de futbol
+2 pelota de tenis
